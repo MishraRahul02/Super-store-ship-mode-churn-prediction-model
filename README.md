@@ -1,5 +1,7 @@
 # Super-store-ship-mode-churn-prediction-model
 ship mode churn prediction using CHAID decision tree in IBM SPSS Modeler 
+
+
 Project Overview
 
 This project focuses on analyzing the shipment behavior of customers using the Sample Superstore dataset. The primary objective is to understand how different factors — such as customer segment, region, category, and order priority — influence the mode of shipment. Using IBM SPSS Modeler, a CHAID (Chi-squared Automatic Interaction Detection) model is built to classify and predict the most likely shipping method chosen by customers.
